@@ -25,7 +25,7 @@ git clone https://github.com/Surzyn/rubikCube.git
 2. Navigate to the project directory:
 
 ```sh
-cd cube-challenge
+cd rubikCube
 ```
 
 ## Prerequisites
