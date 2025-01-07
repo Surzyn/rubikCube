@@ -19,7 +19,7 @@ To get started with the Cube Challenge, follow these steps:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/cube-challenge.git
+git clone https://github.com/Surzyn/rubikCube.git
 ```
 
 2. Navigate to the project directory:
